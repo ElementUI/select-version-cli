@@ -1,0 +1,21 @@
+{
+  "name": "select-version-cli",
+  "version": "0.0.1",
+  "description": "A simple cli to help you select release version",
+  "scripts": {
+    "start": "./bin/select-version-cli"
+  },
+  "keywords": [
+    "cli",
+    "select",
+    "semantic version"
+  ],
+  "bin": "./bin/select-version-cli",
+  "author": "dengzhiyang123@126.com",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^2.19.0",
+    "inquirer": "^6.2.2",
+    "semver": "^5.6.0"
+  }
+}
