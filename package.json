@@ -1,6 +1,6 @@
 {
   "name": "select-version-cli",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A simple cli to help you select release version",
   "scripts": {
     "start": "./bin/select-version-cli",
